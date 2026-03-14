@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Pietro+%F0%9F%91%8B;Back-End+Developer;JS+%7C+TS+%7C+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Pietro+%F0%9F%91%8B;Full-Stack+Developer;JS+%7C+TS+%7C+Node.js+%7C+React" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -14,7 +14,7 @@
 ## 👨‍💻 Sobre mim
 ```javascript
 const pietro = {
-  foco:        "Back-End Development",
+  foco:        "Full-Stack Development",
   stack:       ["JavaScript", "TypeScript", "Node.js", "Express", "MySQL"],
   aprendendo:  ["React", "Docker", "Jest"],
   mentalidade: "Projetos reais. Código limpo. Evolução constante.",
