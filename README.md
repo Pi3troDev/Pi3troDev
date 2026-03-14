@@ -1,90 +1,76 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pietro+%F0%9F%91%8B;Back-End+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Sempre+aprendendo%2C+sempre+construindo." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pietro+%F0%9F%91%8B;Back-End+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Sempre+aprendendo%2C+sempre+construindo." />
+</picture>
 
-# Olá 👋, eu sou o Pietro Alves  
-### 🚀 Desenvolvedor Full-Stack apaixonado por criar soluções com tecnologia
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-alves-99b16126a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietroalves.dev@gmail.com)
 
 </div>
 
 ---
-
-## 👨‍💻 Sobre Mim
-Sou um **Desenvolvedor Full-Stack em início de carreira**, com experiência prática em **React, Node.js, JavaScript, HTML, CSS e SQL**.  
-Apaixonado por tecnologia e aprendizado contínuo, busco criar soluções eficientes e bem estruturadas, aplicando boas práticas de desenvolvimento e versionamento de código com **Git e GitHub**.  
-
-Atualmente, estou focado no meu projeto [**Sistema de Pedidos**](https://github.com/PietroDev/sistema-pedidos), onde aplico conceitos de autenticação, arquitetura de software e boas práticas de desenvolvimento.
-
-📫 Contato: **pietroalves.dev@gmail.com**
-
----
-
-## 🛠️ Minhas Tecnologias
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mysql,git,vscode&perline=6" />
-</p>
+```javascript
+const pietro = {
+  foco:       "Back-End Development",
+  linguagens: ["JavaScript", "TypeScript"],
+  stack:      ["Node.js", "Express", "MySQL", "Sequelize"],
+  aprendendo: ["React", "Docker", "Jest"],
+  mentalidade: "Código limpo, projetos reais, evolução constante."
+};
+```
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🛠️ Stack
 
-### 🍔 Sistema de Pedidos
-Uma aplicação **full-stack** para gerenciamento de pedidos, com autenticação JWT, perfis de usuário (cliente e admin) e uma vitrine de produtos dinâmica.  
-
-**Tecnologias:** React, Node.js, Express, Sequelize e MySQL.  
-
-🔗 [Ver Repositório](https://github.com/PietroDev/sistema-pedidos)
-
----
-
-## 📊 Minhas Estatísticas no GitHub
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PietroDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroDev&layout=compact&langs_count=7&theme=dracula"/>
+### Uso no dia a dia
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Chegando em breve
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Roadmap de Aprendizado
+## 📊 GitHub Stats
 
-📍 **Front-end**
-- [x] HTML5 / CSS3 (responsividade e boas práticas)  
-- [x] JavaScript (manipulação de DOM, ES6+)  
-- [x] React (componentização, hooks, React Router)  
-- [ ] Redux / Context API (gerenciamento de estado avançado)  
-- [ ] Next.js (SSR e performance para aplicações maiores)  
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PietroDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroDev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
 
-📍 **Back-end**
-- [x] Node.js (API REST, eventos e módulos)  
-- [x] Express.js (rotas, middlewares e controllers)  
-- [x] Sequelize (ORM e migrations)  
-- [ ] Autenticação OAuth / Refresh Tokens  
-- [ ] NestJS (estrutura robusta para grandes projetos)  
-
-📍 **Banco de Dados**
-- [x] MySQL / MariaDB  
-- [ ] MongoDB (NoSQL)  
-- [ ] Redis (cache e filas)  
-
-📍 **DevOps & Ferramentas**
-- [x] Git & GitHub  
-- [ ] Docker (containers e deploy padronizado)  
-- [ ] CI/CD (GitHub Actions)  
-- [ ] Cloud (AWS ou Vercel/Netlify para deploy)  
-
-📍 **Futuro Próximo**
-- [ ] Java + Spring Boot (para se tornar full-stack ainda mais completo)  
-- [ ] TypeScript (tipagem e escalabilidade em projetos maiores)  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PietroDev&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 📬 Conecte-se Comigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/pietro-alves-99b16126a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## 🔥 Roadmap
+```
+Back-End          ████████████░░░  sólido
+JavaScript        ███████████░░░░  evoluindo
+TypeScript        ████████░░░░░░░  construindo
+React             ░░░░░░░░░░░░░░░  próximo capítulo
+Docker            ░░░░░░░░░░░░░░░  na fila
+Testes (Jest)     ░░░░░░░░░░░░░░░  na fila
+```
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PietroDev&color=7c3aed&style=flat-square&label=visitas+no+perfil" />
+</div>
